@@ -1,12 +1,12 @@
 Hyperparameter Tuning: Utilized GridSearchCV to find the best hyperparameters for the RandomForestClassifier.
-<br>
+
 Cross-Validation: Included cross-validation in the grid search to ensure robust model evaluation.
-<br>
+
 ROC Curve and AUC: Added ROC curve and AUC score for better understanding of model performance, particularly for binary classification tasks.
-<br>
+
 Enhanced Visualizations: Added ROC curve to visualize the trade-off between true positive rate and false positive rate.
-<br>
-<br>
+
+
 >> random: For generating random slot machine spins.
 >> pandas: For handling data in DataFrame format.
 >> matplotlib.pyplot and seaborn: For creating static visualizations.
